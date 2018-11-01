@@ -1,7 +1,8 @@
 ---
 layout: post
-title: "Max Volz, Dude, Launches Site"
 date: 2018-11-01
+title: "Max Volz, Dude, Launches Site"
+
 ---
 
 Booyah! Finally got around to updating this old website. 
