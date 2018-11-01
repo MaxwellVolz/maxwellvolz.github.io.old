@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Max Volz, Dude, Launches Site"
-date: 2018-11-1
+date: 2018-11-1T10:20:00Z
+---
 
 Booyah! Finally got around to updating this old website. 
 Now using [Jekyll](http://jekyllrb.com) with to author my posts. 
