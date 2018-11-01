@@ -1,2 +1,3 @@
 name: Max Volz, Dude
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
