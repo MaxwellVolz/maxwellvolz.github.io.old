@@ -2,7 +2,6 @@
 layout: post
 title: "Max Volz, Dude, Launches Site"
 date: 2018-11-1
----
 
 Booyah! Finally got around to updating this old website. 
 Now using [Jekyll](http://jekyllrb.com) with to author my posts. 
