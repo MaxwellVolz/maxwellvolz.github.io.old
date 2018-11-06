@@ -3,10 +3,8 @@ layout: post
 title: Local Jekyll with Docker
 ---
 
-Development Time!asdfasdfasdfadsf
+Development Time!
 
-# Foo
-## Install
 ### Installation
 
 Managing dependencies can be a real headache. Let's avoid doing that *as much as possble*.
