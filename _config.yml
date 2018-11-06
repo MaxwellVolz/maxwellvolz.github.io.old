@@ -3,4 +3,4 @@ markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
 timezone: America/Tijuana
 
-theme: jekyll-theme-hacker
+theme: jekyll-theme-cayman
