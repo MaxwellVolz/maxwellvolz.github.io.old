@@ -3,22 +3,24 @@ layout: post
 title: Github Pages
 ---
 
-### 1. What is it?
+<!-- Already know? [Shortcut to the code](/2018/11/06/local-jekyll-with-docker). -->
+
+### What is Github Pages?
 
 Github keeps track of your files in a **repository** (think folder) on the internet, and if the files in the folder follow a specific pattern...Github converts them into a formatted website called a Github Page. They describe it as [websites for you and your projects](https://pages.github.com/).
 
-### 2. Cool! 
+### What is Jekyll?
 
-**I know.** It *is* cool. 
+Jekyll is a simple, blog-aware, static site generator for personal, project, or organization sites. Written in Ruby by Tom Preston-Werner. Thanks Tom! Also, it is heavy integrated with Github Pages.
 
-
-### Tell me more.
-
+### Benefits
 * It's **free**
 * Markdown is the fastest way for a human to output formatted text
 * All your updates are version tracked because it's on Git!
-* Developer setup is operating system agnostic ([more on that later!](/2018/11/04/local-jekyll-with-docker))
+* Developer setup is operating system agnostic ([more later!](/2018/11/06/local-jekyll-with-docker))
 
-### Fire it up!
 
-[Head to the readme](/2018/11/04/github-pages-with-jekyll) to learn how to get your first Github Page online!
+### Next Steps
+1. **[Learn more about Markdown](/2018/11/04/markdown)**
+2. [How Jekyll works](/2018/11/05/how-jekyll-works)
+3. [Setup local development environment with Docker](/2018/11/06/local-jekyll-with-docker)
