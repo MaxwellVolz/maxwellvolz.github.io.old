@@ -21,6 +21,6 @@ Jekyll is a simple, blog-aware, static site generator for personal, project, or 
 
 
 ### Next Steps
-1. **[Learn more about Markdown](/2018/11/04/markdown)**
-2. [How Jekyll works](/2018/11/05/how-jekyll-works)
-3. [Setup local development environment with Docker](/2018/11/06/local-jekyll-with-docker)
+1. **[Learn more about Markdown](/blog/2018/11/04/markdown)**
+2. [How Jekyll works](/blog/2018/11/05/how-jekyll-works)
+3. [Setup local development environment with Docker](/blog/2018/11/06/local-jekyll-with-docker)
