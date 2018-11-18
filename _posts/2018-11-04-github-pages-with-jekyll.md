@@ -18,6 +18,6 @@ Check it out! [Dillinger.io](http://dillinger.io) offers on online solution to w
 I use [Boostnote](https://boostnote.io/) daily for organizing my notes and documentation. It makes me feel like that girl in junior high with the 30-pack of highlighters and color-coordinated binders for every class. Epic.
 
 ### Next Steps
-1. [Learn more about Markdown](/2018/11/04/markdown)
-2. **[How Jekyll works](/2018/11/05/how-jekyll-works)**
-3. [Setup local development environment with Docker](/2018/11/06/local-jekyll-with-docker)
+1. [Learn more about Markdown](/blog/2018/11/04/markdown)
+2. **[How Jekyll works](/blog/2018/11/05/how-jekyll-works)**
+3. [Setup local development environment with Docker](/blog/2018/11/06/local-jekyll-with-docker)
